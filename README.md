@@ -8,11 +8,11 @@ Reviewed by Samuel Lucas
 
 ## Foreword
 
-This is intended to be an *incomplete* list of resources about visual regression testing. It is not tailored to a specific area or role (Developer/QA/UX-Designer). Note that this is for all areas of regression software testing *after* the code in question is written. For a awesome list on general software testing see e.g. [awesome-testing](https://github.com/TheJambo/awesome-testing).
+This is intended to be an _incomplete_ list of resources about visual regression testing. It is not tailored to a specific area or role (Developer/QA/UX-Designer). Note that this is for all areas of regression software testing _after_ the code in question is written. For a awesome list on general software testing see e.g. [awesome-testing](https://github.com/TheJambo/awesome-testing).
 
 Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute](.github/CONTRIBUTING.md) page and **Feel free to add to the list!!**. If you think this is helpful **Please give a Star ⭐️**.
 
-## Contents
+## Contentss
 
 - [Awesome Visual Regression Testing ](#awesome-visual-regression-testing-)
   - [Foreword](#foreword)
@@ -21,9 +21,9 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
   - [Browser automation](#browser-automation)
   - [Tools and frameworks (a-z↓)](#tools-and-frameworks-a-z)
   - [Online services (a-z↓)](#online-services-a-z)
-  - [Blog posts  (a-z↓)](#blog-posts--a-z)
-  - [Slideshows, talks and videos  (a-z↓)](#slideshows-talks-and-videos--a-z)
-  - [Deprecated  (a-z↓)](#deprecated--a-z)
+  - [Blog posts (a-z↓)](#blog-posts--a-z)
+  - [Slideshows, talks and videos (a-z↓)](#slideshows-talks-and-videos--a-z)
+  - [Deprecated (a-z↓)](#deprecated--a-z)
   - [Miscellaneous](#miscellaneous)
     - [Contributing](#contributing)
     - [Code of Conduct](#code-of-conduct)
@@ -93,7 +93,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 - [applitools](https://applitools.com) - Cloud base visual tests.
 - [Argos](https://argos-ci.com) - The open source visual testing platform for modern engineering teams.
-- [Axcept](https://axcept.io) - Testing for the whole team. Up to 100 tests in parallel. Endpoint Mocking. Code Coverage. 
+- [Axcept](https://axcept.io) - Testing for the whole team. Up to 100 tests in parallel. Endpoint Mocking. Code Coverage.
 - [Browser Shots](http://browsershots.org) - Screenshots only.
 - [browserling](https://www.browserling.com) - LIVE interactive cross-browser testing.
 - [BrowserStack](https://www.browserstack.com) - Free for Open Source. Supports [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
@@ -109,7 +109,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Meticulous.ai](https://meticulous.ai) - Easily create frontend tests without writing code. Use Meticulous to record workflows on your web app. You can then replay those flows on new frontend code, and create a test by diffing two replays.
 - [Micoo](https://github.com/Mikuu/Micoo) - Open source service for all UI application visual regression solution
 - [percy.io](https://percy.io) - Continuous visual reviews for web apps.
-- [Pixeleye](https://pixeleye.io/home) - Open-source, multi-browser visual review and testing platform with the option to self-host. It has first-class support for Storybook, Cypress, Playwright & Puppeteer. 
+- [Pixeleye](https://pixeleye.io/home) - Open-source, multi-browser visual review and testing platform with the option to self-host. It has first-class support for Storybook, Cypress, Playwright & Puppeteer.
 - [Preflight: Cypress Recorder](https://cypress.preflight.com) - Create AI-powered Cypress Tests/POM models in your browser and automate Email & Visual testing for Cypress.
 - [Preflight](https://preflight.com) - Easiest Visual regression testing and Automated Web Testing tool. (Limited) free use.
 - [Reflect](https://reflect.run) - Visual regression testing and test automation tool.
@@ -125,7 +125,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [VisWiz.io](https://www.viswiz.io) - Flexible visual regression testing service.
 - [VRTs - Visual Regression Tests](https://bleech.de/en/products/visual-regression-tests/) – WordPress plugin auto-updating screenshots on content updates, preventing false positives.
 
-## Blog posts  (a-z↓)
+## Blog posts (a-z↓)
 
 - [Angela Riggs: Visual Regression Testing with BackstopJS](https://www.metaltoad.com/blog/visual-regression-testing-backstopjs) - Tutorial using BackstopJS.
 - [Automated screenshot comparison tests with headless Chrome, Puppeteer and Pixelmatch, in Bitbucket pipeline](https://jakobzanker.de/blog/automated-screenshot-comparison-test-with-headless-chrome-in-bitbucket-pipeline/)
@@ -133,7 +133,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Chromeless, Chrominator, Chromy, Navalia, Lambdium, GhostJS, AutoGCD](https://medium.com/@kensoh/chromeless-chrominator-chromy-navalia-lambdium-ghostjs-autogcd-ef34bcd26907) - Headless Chrome is shaking up traditional approaches to test automation.
 - [Everything you need to know about Visual Regression Testing in 2022](https://david-x.medium.com/the-state-of-visual-regression-testing-in-2022-5de10ffe8f6f) - Intro to visual regression testing with tools updated as of 2022.
 - [Garris Shipon: Automating CSS Regression Testing](https://css-tricks.com/automating-css-regression-testing/) - Tutorial using BackstopJS.
-- [Garris Shipon: Visual Regression Testing For Angular Applications](https://davidwalsh.name/visual-regression-testing-angular-applications) -  Tutorial using BackstopJS.
+- [Garris Shipon: Visual Regression Testing For Angular Applications](https://davidwalsh.name/visual-regression-testing-angular-applications) - Tutorial using BackstopJS.
 - [Keeping a React Design System consistent: using visual regression testing to save time and headaches](https://techblog.commercetools.com/keeping-a-react-design-system-consistent-f055160d5166) - Using percy, and jest puppeteer to visually test a React component library.
 - [Kevin Lamping: The 5 best visual regression testing tools](http://www.creativebloq.com/features/the-5-best-visual-regression-testing-tools) - Compares: Wraith, PhantomCSS, Gemini, WebdriverCSS and Spectre.
 - [Make visual regression testing easier](https://medium.com/@nima.soroush.h/make-visual-regression-testing-easier-4a3dc7073737) - Introduction to [Differencify](https://github.com/NimaSoroush/differencify) and how to use it.
@@ -147,7 +147,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Visual regression testing using Jest, Chromeless and AWS Lambda](https://github.com/novemberfiveco/visual-regression-testing-jest-chromeless) - Tutorial using Chromeless and jest-image-snapshot.
 - [Visual Regression Testing with Puppeteer & Jest](https://www.viswiz.io/help/tutorials/puppeteer) - Tutorial to setup visual testing with Puppeteer, Jest and VisWiz.io.
 
-## Slideshows, talks and videos  (a-z↓)
+## Slideshows, talks and videos (a-z↓)
 
 - [CSS Regression Testing with Wraith](https://youtu.be/gE_19L0l2q0) - Screencast: Basic introduction to wraith, a screenshot comparison tool.
 - [Cypress in 100 Seconds](https://www.youtube.com/watch?v=BQqzfHQkREo&ab_channel=Fireship) - Introduction video by Fireship.
@@ -159,7 +159,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Visual Regression Testing with Shoov](https://youtu.be/CBBiJ6YlXLc) - How to setup shoov and get your first test written.
 - [Visual Regression Testing: Sanity Checks With BackstopJS](https://youtu.be/l8lGj8Zh0k4) - Screencast with code demo and best practices.
 
-## Deprecated  (a-z↓)
+## Deprecated (a-z↓)
 
 The following projects are no longer maintained actively but are still worth mentioning because of their user base.
 
@@ -167,7 +167,7 @@ The following projects are no longer maintained actively but are still worth men
 - [Chromeless](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda. (archived 2018)
 - [DalekJS](https://github.com/dalekjs/dalek) - Automated cross browser testing with JavaScript. No longer maintained since 4 Jun 2017.
 - [dpxdt](https://github.com/bslatkin/dpxdt) - End-to-end testing with Python.
-- [Gemini](https://github.com/gemini-testing/gemini) - Feature rich framework with support for [Selenium](https://github.com/SeleniumHQ/selenium) and  [CasperJS](https://github.com/casperjs/casperjs). Gemini is deprecated, use hermione instead.
+- [Gemini](https://github.com/gemini-testing/gemini) - Feature rich framework with support for [Selenium](https://github.com/SeleniumHQ/selenium) and [CasperJS](https://github.com/casperjs/casperjs). Gemini is deprecated, use hermione instead.
 - [Huxley](https://github.com/facebookarchive/huxley) - Python framework based on [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
 - [Navalia](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL. (archived 2018)
 - [OcularJS](https://github.com/mmacartney10/ocularjs) - uses [PhantomJS](https://github.com/ariya/phantomjs).
@@ -187,11 +187,12 @@ See the [Contribution Guide](.github/CONTRIBUTING.md) for details on how to cont
 ### Code of Conduct
 
 See the [Code of Conduct](.github/CODE-OF-CONDUCT.md) for details. Basically it comes down to:
+
 > In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-nationality, personal appearance, race, religion, or sexual identity and orientation.
+> contributors and maintainers pledge to making participation in our project and
+> our community a harassment-free experience for everyone, regardless of age, body
+> size, disability, ethnicity, gender identity and expression, level of experience,
+> nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ### License
 
